@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 public class LoVivido {
 
     public static void main(String[] args) {
-        //Cambiamos el nombre de las variables
+        //Cambiamos el nombre de las variables y formateamos el código
         String nombre;
         String edad;
 
